@@ -3,9 +3,13 @@
 Sou estudante de Ciências da Computação e apaixonada por tecnologia e desenvolvimento de software. Este é meu portfólio no GitHub, onde compartilho projetos pessoais, trabalhos acadêmicos e muito mais.
 
 ## 🚀 Habilidades
-- Linguagens: Python, JavaScript, C
-- Desenvolvimento Web: Html, CSS
-- Ferramentas: Git, VSCode
+- **Linguagens**: Python, JavaScript, TypeScript, C
+- **Desenvolvimento Web**: HTML, CSS, JavaScript, ReactJS
+- **Back-end**: Python, Django, Java
+- **Banco de Dados**: PostgreSQL
+- **Cloud & Serviços**: AWS
+- **Ferramentas**: Git, GitHub, VSCode
+- **Metodologias Ágeis**: Scrum, Kanban
 
 ## 📂 Projetos Pessoais
 - Atualmente, não tenho projetos pessoais concluídos, mas estou no processo de desenvolvimento de alguns.
@@ -18,7 +22,8 @@ Sou estudante de Ciências da Computação e apaixonada por tecnologia e desenvo
 - **[Mãos que Criam](https://github.com/luizfnogueira/Maos_que_Criam)**: Plataforma web que simplifica doações de insumos para produção de brinquedos da empresa Fábrica de Ideias, com mapas, instruções e contato para dúvidas. Visa oferecer informações claras e feedback ágil.
 
 ### Em Andamento
-- Atualmente, não tenho projetos em andamento.
+- **[Projeto BRASFI](https://github.com/maludantass/Projetos3.git)**: Projeto desenvolvido para a BRASFI (Aliança Brasileira de Finanças e Investimentos Sustentáveis) como parte da disciplina Projetos 3. O objetivo é conectar pessoas e organizações engajadas com finanças sustentáveis, oferecendo acesso a conteúdos, eventos e iniciativas que promovem a transformação do mercado financeiro com foco em sustentabilidade.
+- **[Projeto AC20251](https://github.com/juliamariateixeiraa/ac20251.git)**: Projeto desenvolvido para a disciplina de Programação Orientada a Objetos. Este projeto consiste na implementação de classes e entidades para um sistema de seguros de veículos, conforme especificação fornecida.
 
 ## 🎯 Metas
 - Aprender novas linguagens e frameworks.
@@ -26,5 +31,5 @@ Sou estudante de Ciências da Computação e apaixonada por tecnologia e desenvo
 
 ## 📬 Contato
 Você pode me encontrar em:
-- Email: juliamariateixeira@hotmail.com.br
+- Email: juliamariasantosteixeira@gmail.com
 - LinkedIn: [LinkedIn](www.linkedin.com/in/juliamariateixeira)
